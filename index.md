@@ -1,3 +1,0 @@
-## my gitpage
-
-hello gitPage
